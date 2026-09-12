@@ -580,14 +580,14 @@
   <header>
     <div class="container header-inner">
       <div style="display:flex;align-items:center;gap:10px;">
-        <button class="mobile-toggle" id="mobileToggle" aria-label="menu"><i class="fas fa-bars"></i></button>
-        <a href="#" class="brand"><i class="fas fa-store-alt" style="color:var(--accent);"></i> Nexus<span class="accent">Shop</span></a>
+        <button class="mobile-toggle" id="mobileToggle" aria-label="menu"><em class="fas fa-bars"></em></button>
+        <a href="#" class="brand"><em class="fas fa-store-alt" style="color:var(--accent);"></em> Nexus<span class="accent">Shop</span></a>
       </div>
 
       <nav class="main-nav" id="mainNav">
         <ul>
-          <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
-          <li><a href="#" id="catMenuBtn"><i class="fas fa-th-large"></i> Categories</a></li>
+          <li><a href="#"><em class="fas fa-home"></em> Home</a></li>
+          <li><a href="#" id="catMenuBtn"><em class="fas fa-th-large"></em> Categories</a></li>
           <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>
         </ul>
       </nav>
